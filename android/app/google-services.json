@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624115986793",
+    "project_id": "ruban-9791f",
+    "storage_bucket": "ruban-9791f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624115986793:android:96e5a258c21f8e69520df8",
+        "android_client_info": {
+          "package_name": "com.example.ruban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624115986793-lt0mom3a3e699bjasoii4gt7tpllel0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm7zLMj1HfdUv4VECp6DbEBc8VPzAUDMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624115986793-lt0mom3a3e699bjasoii4gt7tpllel0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
